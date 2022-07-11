@@ -15,13 +15,18 @@
 ## Languages and Tools:
 [![image](https://img.icons8.com/fluency/48/000000/python.png)](https://www.python.org/)
 [![image](https://img.icons8.com/color/48/000000/c-programming.png)](https://devdocs.io/c/)
+[![drawing](icons/cpp_logo.png)](https://devdocs.io/cpp/)
 [![image](https://img.icons8.com/fluency/48/000000/mysql-logo.png)](https://www.mysql.com/)
 [![image](https://img.icons8.com/fluency/48/000000/javascript.png)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript)
 
 ## Framework I used:
 [![image](https://img.icons8.com/fluency/48/000000/opencv.png)](https://opencv.org/)
+[![drawing](icons/selenium.svg)](https://www.selenium.dev/)
 [![image](https://img.icons8.com/fluency/48/000000/flask.png)](https://flask.palletsprojects.com/en/2.1.x/)
+[![drawing](icons/fastapi.svg)](https://fastapi.tiangolo.com/)
 [![image](https://img.icons8.com/color/48/000000/vue-js.png)](https://vuejs.org/)
 
-
+<style>
+    img[alt=drawing] { width: 40px; }
+</style>
 Last Edited on: 07/11/2022
